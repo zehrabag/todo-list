@@ -1,4 +1,4 @@
-# tasktrackr
+# Todo List
 
 Dinamik ve kullanıcı dostu bir yapılacaklar listesi uygulaması. Vanilla JavaScript, HTML ve CSS kullanılarak geliştirilmiştir.
 
